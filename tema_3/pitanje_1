@@ -1,0 +1,2 @@
+int niz[5] = {0}; ima pet elemenata
+int meseci[] = {31, 28, 31, 30, 31, 31, 30, 31, 30, 31}; ima deset elemenata
